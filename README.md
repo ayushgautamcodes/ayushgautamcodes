@@ -103,12 +103,14 @@ software.
 </p>
 
 ---
-<h2 align="center">🐍 Contribution Activity</h2>
+<hr>
+
+<h2 align="center">🌍 Coding World</h2>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ayushgautamcodes/ayushgautamcodes/main/dist/github-snake-dark.svg"
-    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ayushgautamcodes/ayushgautamcodes/main/dist/gitworld.svg"
+    alt="GitWorld contribution visualization"
     width="100%">
 </p>
 
