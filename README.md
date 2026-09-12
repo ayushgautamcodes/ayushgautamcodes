@@ -80,11 +80,43 @@ software.
 
 ---
 
-<h2 align="center">📌 Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧠 LeetCode Solutions
+
+A growing collection of LeetCode problems solved while strengthening Data Structures & Algorithms and interview problem-solving skills.
+
+**Tech:** Java • DSA • Algorithms
 
 <p align="center">
-  More projects coming soon...
+  <a href="https://github.com/ayushgautamcodes/leetcode">
+    <img src="https://img.shields.io/badge/View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐍 Python Projects
+
+A collection of Python programs and mini-projects covering programming fundamentals, problem solving, and application development.
+
+**Includes:** ATM System • Student Result System • Flappy Bird
+
+<p align="center">
+  <a href="https://github.com/ayushgautamcodes/python-projects">
+    <img src="https://img.shields.io/badge/View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+  </tr>
+</table>
 
 ---
 
