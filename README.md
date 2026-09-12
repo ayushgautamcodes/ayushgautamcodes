@@ -64,8 +64,10 @@ software.
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/u/ayushgautam/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="45" alt="LeetCode">
+  <a href="https://leetcode.com/u/iayushgautam/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+         height="45"
+         alt="LeetCode">
   </a>
 </p>
 
