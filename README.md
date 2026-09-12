@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg"
+  <img src="./assets/banner.png"
        alt="Ayush Gautam"
        width="100%">
 </p>
@@ -24,7 +24,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <img align="right"
-     src="./assets/avatar.jpg"
+     src="./assets/avatar.png"
      width="280"
      alt="Developer Illustration">
 
