@@ -105,12 +105,12 @@ software.
 ---
 <hr>
 
-<h2 align="center">🌍 Coding World</h2>
+<h2 align="center">🌌 3D Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ayushgautamcodes/ayushgautamcodes/main/dist/gitworld.svg"
-    alt="GitWorld contribution visualization"
+    src="./profile-3d-contrib/profile-night-view.svg"
+    alt="3D GitHub Contribution Graph"
     width="100%">
 </p>
 
