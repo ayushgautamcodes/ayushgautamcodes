@@ -103,6 +103,20 @@ software.
 </p>
 
 ---
+<h2 align="center">🐍 Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/ayushgautamcodes/ayushgautamcodes/main/dist/github-snake-dark.svg">
+
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/ayushgautamcodes/ayushgautamcodes/main/dist/github-snake.svg">
+
+    <img src="https://raw.githubusercontent.com/ayushgautamcodes/ayushgautamcodes/main/dist/github-snake.svg"
+         alt="GitHub contribution snake">
+  </picture>
+</p>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
