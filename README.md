@@ -50,15 +50,22 @@ software.
 
 <p align="center">
   <a href="https://github.com/ayushgautamcodes">
-    <img src="https://skillicons.dev/icons?i=github" height="45">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45">
+
+  <a href="https://www.linkedin.com/in/ayush-pratap-gautam-bb43723b4">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45">
+
+  <a href="mailto:iayushgautam7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/ayushgautam/">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="45" alt="LeetCode">
   </a>
 </p>
 
