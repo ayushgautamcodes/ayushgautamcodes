@@ -24,7 +24,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <img align="right"
-     src="./assets/avatar.png"
+     src="./assets/avatar.jpg"
      width="280"
      alt="Developer Illustration">
 
