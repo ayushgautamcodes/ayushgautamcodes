@@ -72,10 +72,25 @@ software.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushgautamcodes&theme=city_lights&hide_border=false&border_radius=5" height="150">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ayushgautamcodes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgautamcodes&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ayushgautamcodes&theme=github-dark-blue&hide_border=true&border_radius=8"
+    height="170"
+  />
 </p>
 
 ---
