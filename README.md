@@ -25,7 +25,7 @@
 
 <img align="right"
      src="./assets/avatar.png"
-     width="280"
+     width="300"
      alt="Developer Illustration">
 
 I'm **Ayush Gautam**, a Computer Science student interested in
