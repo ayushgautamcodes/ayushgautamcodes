@@ -109,7 +109,7 @@ software.
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-glass.svg"
+    src="./profile-3d-contrib/profile-night-view.svg"
     alt="3D GitHub Contribution Graph"
     width="100%">
 </p>
