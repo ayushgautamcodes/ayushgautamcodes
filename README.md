@@ -152,8 +152,23 @@ A collection of Python programs and mini-projects covering programming fundament
 
 ---
 
-<h2 align="center">💡 Philosophy</h2>
+<h2 align="center">🧠 Engineering Mindset</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote">
+  <b>Learn → Build → Break → Debug → Improve</b>
+</p>
+
+<p align="center">
+  I believe the best way to understand technology is to build with it.
+  <br>
+  I focus on understanding the fundamentals, solving problems,
+  and turning what I learn into working software.
+</p>
+
+<p align="center">
+  <code>DSA</code> •
+  <code>Software Engineering</code> •
+  <code>AI/ML</code> •
+  <code>System Design</code> •
+  <code>Continuous Learning</code>
 </p>
