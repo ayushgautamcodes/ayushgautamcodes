@@ -89,13 +89,15 @@ building projects, debugging problems, and continuously improving them.**
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ayushgautamcodes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=ayushgautamcodes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
     height="170"
+    alt="GitHub Statistics"
   />
-  
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgautamcodes&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayushgautamcodes&layout=compact&theme=github_dark&hide_border=true"
     height="170"
+    alt="Top Languages"
   />
 </p>
 
@@ -103,6 +105,7 @@ building projects, debugging problems, and continuously improving them.**
   <img
     src="https://streak-stats.demolab.com?user=ayushgautamcodes&theme=github-dark-blue&hide_border=true&border_radius=8"
     height="170"
+    alt="GitHub Streak"
   />
 </p>
 
