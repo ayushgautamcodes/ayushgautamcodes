@@ -146,7 +146,7 @@ building projects, debugging problems, and continuously improving them.
   <tr>
     <td width="50%" valign="top">
 
-### 🧠 LeetCode Solutions
+### 🧠 LeetCode
 
 A growing collection of LeetCode problems solved while strengthening Data Structures & Algorithms and interview problem-solving skills.
 
@@ -162,7 +162,7 @@ A growing collection of LeetCode problems solved while strengthening Data Struct
 
 <td width="50%" valign="top">
 
-### 🐍 Python Projects
+### Projects
 
 A collection of Python programs and mini-projects covering programming fundamentals, problem solving, and application development.
 
