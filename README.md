@@ -89,14 +89,13 @@ building projects, debugging problems, and continuously improving them.**
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=ayushgautamcodes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=ayushgautamcodes&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true"
+    height="180"
     alt="GitHub Statistics"
   />
-
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayushgautamcodes&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayushgautamcodes&layout=compact&theme=github_dark&hide_border=true&langs_count=5&card_width=320"
+    height="180"
     alt="Top Languages"
   />
 </p>
