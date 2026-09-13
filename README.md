@@ -7,20 +7,21 @@
 <h1 align="center">Hi 👋, I'm Ayush Gautam</h1>
 
 <h3 align="center">
-  Computer Science Student • Software Engineer in the Making
+  CSE (AI & Data Science) Student • Aspiring AI/ML Engineer
 </h3>
 
 <p align="center">
-  DSA • Software Engineering • AI/ML • Systems
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=50&lines=Strengthening+DSA+with+Java;Exploring+AI+%2F+Machine+Learning;Building+Real-World+Systems;Preparing+for+SWE+Internships" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=Building+Software+%7C+Solving+Problems;Learning+DSA+%26+Algorithms;Exploring+AI+%26+Machine+Learning;Building+Systems+That+Scale" alt="Typing SVG">
+  🔭 Currently building a Spring Boot CRUD API and exploring AI SaaS ideas
+  <br>
+  🌱 Learning backend development, system design, and applied ML
 </p>
 
 <p align="center">
-  Building practical projects, improving my problem-solving skills,
-  and working toward becoming a strong software engineer.
+  <img src="https://komarev.com/ghpvc/?username=ayushgautamcodes&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
