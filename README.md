@@ -103,6 +103,7 @@ software.
 </p>
 
 ---
+<h2 align="center">⌘ Commit Activity</h2>
 <hr>
 
 <picture>
