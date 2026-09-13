@@ -47,8 +47,8 @@ I learn by going beyond tutorials — understanding the fundamentals,
 building projects, debugging problems, and continuously improving them.
 
 </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="./assets/avatar.png" width="220" alt="Developer Illustration"/>
+    <td width="35%" align="center" valign="middle">
+      <img src="./assets/avatar.png" width="320" alt="Developer Illustration"/>
     </td>
   </tr>
 </table>
