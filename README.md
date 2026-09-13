@@ -143,7 +143,7 @@ building projects, debugging problems, and continuously improving them.
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Repositories </h2>
 
 <table align="center" width="100%">
   <tr>
@@ -165,7 +165,7 @@ building projects, debugging problems, and continuously improving them.
 
 </td>
     <td width="50%" valign="top">
-      <h3>🐍 Python Projects</h3>
+      <h3> Projects</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/OOP-blue?style=flat-square">
