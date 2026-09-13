@@ -48,10 +48,11 @@ building projects, debugging problems, and continuously improving them.
 
 </td>
     <td width="35%" align="center" valign="middle">
-      <img src="./assets/avatar.png" width="320" alt="Developer Illustration"/>
+      <img src="./assets/avatar.png" width="350" alt="Developer Illustration"/>
     </td>
   </tr>
 </table>
+
 ---
 
 <h2 align="center">🔗 Connect</h2>
