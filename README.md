@@ -145,52 +145,48 @@ building projects, debugging problems, and continuously improving them.
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3>🧠 LeetCode Solutions</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/DSA-blue?style=flat-square">
+        <img src="https://img.shields.io/github/last-commit/ayushgautamcodes/leetcode?style=flat-square&color=orange&label=updated">
+      </p>
 
-### 🧠 LeetCode Solutions
+**What it is:** Ongoing collection of solved LeetCode problems across arrays, trees, graphs, DP, and greedy — organized by topic and difficulty.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Repo Size](https://img.shields.io/github/repo-size/ayushgautamcodes/leetcode?style=flat-square&color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/ayushgautamcodes/leetcode?style=flat-square&color=orange)
+**What I'm building toward:** Interview-ready pattern recognition — not just "solved," but understanding *why* an approach works and its complexity trade-offs.
 
-A growing collection of LeetCode problems solved while strengthening Data Structures & Algorithms and interview problem-solving skills.
-
-**Tech:** Java • DSA • Algorithms
-
-<p align="center">
-  <a href="https://github.com/ayushgautamcodes/leetcode">
-    <img src="https://img.shields.io/badge/View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<a href="https://github.com/ayushgautamcodes/leetcode">
+  <img src="https://img.shields.io/badge/View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
+    <td width="50%" valign="top">
+      <h3>🐍 Python Projects</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/OOP-blue?style=flat-square">
+        <img src="https://img.shields.io/github/last-commit/ayushgautamcodes/python-projects?style=flat-square&color=orange&label=updated">
+      </p>
 
-<td width="50%" valign="top">
-
-### 🐍 Python Projects
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Repo Size](https://img.shields.io/github/repo-size/ayushgautamcodes/python-projects?style=flat-square&color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/ayushgautamcodes/python-projects?style=flat-square&color=orange)
-
-A collection of Python programs and mini-projects covering programming fundamentals, problem solving, and application development.
+**What it is:** Mini-projects applying core programming and OOP concepts to working applications.
 
 **Includes:**
-- ATM System
-- Student Result System
-- Flappy Bird
+- 🏧 ATM System — file/DB-backed transaction simulation
+- 📊 Student Result System — CRUD + grade computation logic
+- 🎮 Flappy Bird — game loop, collision detection, event handling
 
-<p align="center">
-  <a href="https://github.com/ayushgautamcodes/python-projects">
-    <img src="https://img.shields.io/badge/View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<a href="https://github.com/ayushgautamcodes/python-projects">
+  <img src="https://img.shields.io/badge/View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
   </tr>
 </table>
+
 ---
 
 <h2 align="center">🧠 Engineering Mindset</h2>
