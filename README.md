@@ -32,19 +32,21 @@
      width="280"
      alt="Developer Illustration">
 
-I'm **Ayush Gautam**, a Computer Science student interested in
-**software engineering, Data Structures & Algorithms, and AI/ML**.
+I'm **Ayush Gautam**, a Computer Science student focused on
+**software engineering, DSA, and AI/ML**.
 
-I'm currently focused on:
+### What I'm Working On
 
-- Data Structures & Algorithms
-- Software Engineering
-- Building real-world projects
-- AI / Machine Learning
-- Preparing for software engineering internships
+- Strengthening **Data Structures & Algorithms**
+- Building practical **software projects**
+- Learning **backend development and system design**
+- Exploring **AI, Machine Learning, and Generative AI**
+- Preparing for **software engineering internships**
 
-I enjoy learning by building things and turning ideas into working
-software.
+### How I Learn
+
+I learn by going beyond tutorials — **understanding the fundamentals,
+building projects, debugging problems, and continuously improving them.**
 
 <br clear="right"/>
 
