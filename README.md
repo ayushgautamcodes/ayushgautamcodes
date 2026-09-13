@@ -27,28 +27,31 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right"
-     src="./assets/avatar.png"
-     width="280"
-     alt="Developer Illustration">
+<table width="100%">
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./assets/avatar.png" width="220" alt="Developer Illustration"/>
+    </td>
+    <td width="70%" valign="middle">
 
 I'm **Ayush Gautam**, a Computer Science student focused on
 **software engineering, DSA, and AI/ML**.
 
-### What I'm Working On
-
+**What I'm Working On**
 - Strengthening **Data Structures & Algorithms**
 - Building practical **software projects**
 - Learning **backend development and system design**
 - Exploring **AI, Machine Learning, and Generative AI**
 - Preparing for **software engineering internships**
 
-### How I Learn
+**How I Learn**
 
-I learn by going beyond tutorials — **understanding the fundamentals,
-building projects, debugging problems, and continuously improving them.**
+I learn by going beyond tutorials — understanding the fundamentals,
+building projects, debugging problems, and continuously improving them.
 
-<br clear="right"/>
+</td>
+  </tr>
+</table>
 
 ---
 
