@@ -29,9 +29,6 @@
 
 <table width="100%">
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="./assets/avatar.png" width="220" alt="Developer Illustration"/>
-    </td>
     <td width="70%" valign="middle">
 
 I'm **Ayush Gautam**, a Computer Science student focused on
@@ -50,9 +47,11 @@ I learn by going beyond tutorials — understanding the fundamentals,
 building projects, debugging problems, and continuously improving them.
 
 </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="./assets/avatar.png" width="220" alt="Developer Illustration"/>
+    </td>
   </tr>
 </table>
-
 ---
 
 <h2 align="center">🔗 Connect</h2>
