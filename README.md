@@ -106,23 +106,11 @@ software.
 <h2 align="center">👾 Pac-Man Contribution Activity</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ayushgautamcodes/ayushgautamcodes/output/pacman-contribution-graph-dark.svg"
-    >
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ayushgautamcodes/ayushgautamcodes/output/pacman-contribution-graph.svg"
-    >
-
-    <img
-      src="https://raw.githubusercontent.com/ayushgautamcodes/ayushgautamcodes/output/pacman-contribution-graph.svg"
-      alt="Pac-Man Contribution Graph"
-      width="100%"
-    >
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/ayushgautamcodes/ayushgautamcodes/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man Contribution Graph"
+    width="100%"
+  >
 </p>
 <h2 align="center">🚀 Featured Projects</h2>
 
