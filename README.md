@@ -52,44 +52,27 @@ building projects, debugging problems, and continuously improving them.**
 
 ---
 
-<h2 align="center"> 🔗 Connect</h2>
+<h2 align="center">🔗 Connect</h2>
 
 <p align="center">
-
   <a href="https://github.com/ayushgautamcodes">
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      height="45"
-      alt="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub">
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ayush-pratap-gautam-bb43723b4">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      height="45"
-      alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn">
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="mailto:iayushgautam7@gmail.com">
-    <img
-      src="https://skillicons.dev/icons?i=gmail"
-      height="45"
-      alt="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email">
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/iayushgautam/">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
       height="45"
       alt="LeetCode">
   </a>
-
 </p>
 
 ---
