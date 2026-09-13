@@ -639,11 +639,31 @@
           style="animation-delay:3.7s"/><circle class="smoke" cx="870.3" cy="68.0" r="4"
       fill="#c99" opacity="0.6"
       style="animation-delay:2.00s"/></g>
-  <g>
-    <rect x="882.7" y="189" width="16.3" height="6" fill="#2a1a00"/>
-    <rect x="887.6" y="189" width="2" height="5" fill="#5a3a1a"/>
-    <ellipse cx="888.6" cy="187.0" rx="4" ry="4" fill="#e76f00"/>
-  </g>
+  <g class="col" data-week="51"><rect x="882.7" y="145" width="16.3" height="50"
+    fill="#e76f00" rx="1"/><rect class="win" x="889.7" y="149.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:0.3s"/>
+    <rect class="win" x="894.7" y="149.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:0.6s"/>
+    <rect class="win" x="884.7" y="159.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:0.9s"/>
+    <rect class="win" x="889.7" y="159.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="884.7" y="169.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="894.7" y="169.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:2.4s"/>
+    <rect class="win" x="889.7" y="179.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:3.0s"/>
+    <rect class="win" x="894.7" y="179.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:3.3s"/></g>
 
   <!-- Train -->
   
@@ -711,13 +731,13 @@
   <g>
     <rect x="8" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#ffb74d">
-      🌍 ayushgautamcodes's GitWorld · 218 commits
+      🌍 ayushgautamcodes's GitWorld · 221 commits
     </text>
   </g>
   <g>
     <rect x="782" y="8" width="110" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="788" y="22" font-family="monospace" font-size="10" fill="#ffb74d">
-      🔥 0d streak
+      🔥 3d streak
     </text>
   </g>
 
