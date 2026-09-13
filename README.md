@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=Building+things+that+solve+problems;Learning+DSA+%26+Software+Engineering;Exploring+AI+%26+Machine+Learning;Always+Building%2C+Always+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=Building+Software+%7C+Solving+Problems;Learning+DSA+%26+Algorithms;Exploring+AI+%26+Machine+Learning;Building+Systems+That+Scale" alt="Typing SVG">
 </p>
 
 <p align="center">
