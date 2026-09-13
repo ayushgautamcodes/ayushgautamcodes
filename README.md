@@ -15,9 +15,8 @@
 </p>
 
 <p align="center">
-  🔭 Currently building a Spring Boot CRUD API and exploring AI SaaS ideas
-  <br>
-  🌱 Learning backend development, system design, and applied ML
+  Building practical projects, improving my problem-solving skills,
+  and working toward becoming a strong software engineer.
 </p>
 
 <p align="center">
