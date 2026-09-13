@@ -76,25 +76,28 @@ building projects, debugging problems, and continuously improving them.
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
-</p>
-
-<p align="center"><b>Web</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-<p align="center"><b>Tools & Platforms</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-<p align="center"><b>Database</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Web</th>
+    <th>Tools & Platforms</th>
+    <th>Database</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </td>
+  </tr>
+</table>
 
 ---
 
