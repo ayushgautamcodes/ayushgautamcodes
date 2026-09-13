@@ -55,26 +55,20 @@ building projects, debugging problems, and continuously improving them.
 
 ---
 
-<h2 align="center">🔗 Connect</h2>
+<h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/ayushgautamcodes">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ayush-pratap-gautam-bb43723b4">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:iayushgautam7@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/iayushgautam/">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
-      height="45"
-      alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -82,8 +76,24 @@ building projects, debugging problems, and continuously improving them.
 
 <h2 align="center">💻 Tech Stack</h2>
 
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,git,github,vscode,linux,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+</p>
+
+<p align="center"><b>Web</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+<p align="center"><b>Tools & Platforms</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+<p align="center"><b>Database</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
