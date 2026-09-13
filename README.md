@@ -105,12 +105,12 @@ software.
 ---
 <hr>
 
-<h2 align="center">🌌 3D Contribution Activity</h2>
+<h2 align="center">🟡 Pac-Man Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-gitblock.svg"
-    alt="3D GitHub Contribution Graph"
+    src="./assets/pacman.gif"
+    alt="Pac-Man Contribution Graph"
     width="100%">
 </p>
 
