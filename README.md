@@ -95,7 +95,7 @@ building projects, debugging problems, and continuously improving them.**
   />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayushgautamcodes&layout=compact&theme=github_dark&hide_border=true&langs_count=5&card_width=320"
-    height="180"
+    height="150"
     alt="Top Languages"
   />
 </p>
