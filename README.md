@@ -89,21 +89,24 @@ building projects, debugging problems, and continuously improving them.**
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=ayushgautamcodes&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true"
-    height="180"
+    align="center"
+    height="200"
+    src="https://github-stats-extended.vercel.app/api?username=ayushgautamcodes&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&card_width=495"
     alt="GitHub Statistics"
   />
+
   <img
+    align="center"
+    height="200"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayushgautamcodes&layout=compact&theme=github_dark&hide_border=true&langs_count=5&card_width=320"
-    height="150"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ayushgautamcodes&theme=github-dark-blue&hide_border=true&border_radius=8"
     height="170"
+    src="https://streak-stats.demolab.com?user=ayushgautamcodes&theme=github-dark-blue&hide_border=true&border_radius=8"
     alt="GitHub Streak"
   />
 </p>
