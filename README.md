@@ -140,13 +140,20 @@ building projects, debugging problems, and continuously improving them.
     width="100%"
   >
 </p>
+
+---
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
 
-### 🧠 LeetCode
+### 🧠 LeetCode Solutions
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Repo Size](https://img.shields.io/github/repo-size/ayushgautamcodes/leetcode?style=flat-square&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/ayushgautamcodes/leetcode?style=flat-square&color=orange)
 
 A growing collection of LeetCode problems solved while strengthening Data Structures & Algorithms and interview problem-solving skills.
 
@@ -162,11 +169,18 @@ A growing collection of LeetCode problems solved while strengthening Data Struct
 
 <td width="50%" valign="top">
 
-### Projects
+### 🐍 Python Projects
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Repo Size](https://img.shields.io/github/repo-size/ayushgautamcodes/python-projects?style=flat-square&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/ayushgautamcodes/python-projects?style=flat-square&color=orange)
 
 A collection of Python programs and mini-projects covering programming fundamentals, problem solving, and application development.
 
-**Includes:** ATM System • Student Result System • Flappy Bird
+**Includes:**
+- ATM System
+- Student Result System
+- Flappy Bird
 
 <p align="center">
   <a href="https://github.com/ayushgautamcodes/python-projects">
@@ -177,7 +191,6 @@ A collection of Python programs and mini-projects covering programming fundament
 </td>
   </tr>
 </table>
-
 ---
 
 <h2 align="center">🧠 Engineering Mindset</h2>
