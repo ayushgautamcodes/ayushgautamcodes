@@ -105,13 +105,15 @@ software.
 ---
 <hr>
 
-<h2 align="center">🟡 Pac-Man Contribution Activity</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph.svg">
 
 <p align="center">
-  <img
-    src="./assets/pacman.gif"
-    alt="Pac-Man Contribution Graph"
-    width="100%">
+  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
 </p>
 
 <h2 align="center">🚀 Featured Projects</h2>
