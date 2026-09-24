@@ -693,20 +693,31 @@
           style="animation-delay:2.5s"/><circle class="smoke" cx="870.3" cy="79.0" r="4"
       fill="#c99" opacity="0.6"
       style="animation-delay:2.00s"/></g>
-  <g class="col" data-week="51"><rect x="882.7" y="165" width="16.3" height="30"
-    fill="#e76f00" rx="1"/><polygon points="882.7,165 890.8,157.0 899.0,165"
-      fill="#b35000"/><rect class="win" x="889.7" y="169.0"
+  <g class="col" data-week="51"><rect x="882.7" y="145" width="16.3" height="50"
+    fill="#e76f00" rx="1"/><rect class="win" x="889.7" y="149.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:0.3s"/>
-    <rect class="win" x="894.7" y="169.0"
+    <rect class="win" x="894.7" y="149.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:0.6s"/>
-    <rect class="win" x="884.7" y="179.0"
+    <rect class="win" x="884.7" y="159.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:0.9s"/>
+    <rect class="win" x="889.7" y="159.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="884.7" y="169.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="894.7" y="169.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:2.4s"/>
     <rect class="win" x="889.7" y="179.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
-          style="animation-delay:1.2s"/></g>
+          style="animation-delay:3.0s"/>
+    <rect class="win" x="894.7" y="179.0"
+          width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
+          style="animation-delay:3.3s"/></g>
 
   <!-- Train -->
   
@@ -774,7 +785,7 @@
   <g>
     <rect x="8" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#ffb74d">
-      🌍 ayushgautamcodes's GitWorld · 286 commits
+      🌍 ayushgautamcodes's GitWorld · 289 commits
     </text>
   </g>
   <g>
