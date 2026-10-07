@@ -733,20 +733,26 @@
     <rect class="win" x="877.4" y="173.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:3.3s"/></g>
-  <g class="col" data-week="51"><rect x="882.7" y="165" width="16.3" height="30"
-    fill="#3776ab" rx="1"/><polygon points="882.7,165 890.8,157.0 899.0,165"
-      fill="#ffd43b"/><rect class="win" x="889.7" y="169.0"
+  <g class="col" data-week="51"><rect x="882.7" y="154" width="16.3" height="41"
+    fill="#3776ab" rx="1"/><polygon points="882.7,154 890.8,146.0 899.0,154"
+      fill="#ffd43b"/><rect class="win" x="889.7" y="158.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:0.3s"/>
-    <rect class="win" x="894.7" y="169.0"
+    <rect class="win" x="894.7" y="158.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:0.6s"/>
-    <rect class="win" x="884.7" y="179.0"
+    <rect class="win" x="884.7" y="168.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:0.9s"/>
-    <rect class="win" x="889.7" y="179.0"
+    <rect class="win" x="889.7" y="168.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
-          style="animation-delay:1.2s"/></g>
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="884.7" y="178.0"
+          width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="894.7" y="178.0"
+          width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
+          style="animation-delay:2.4s"/></g>
 
   <!-- Train -->
   
@@ -814,7 +820,7 @@
   <g>
     <rect x="8" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#7ee787">
-      🌍 ayushgautamcodes's GitWorld · 298 commits
+      🌍 ayushgautamcodes's GitWorld · 300 commits
     </text>
   </g>
   <g>
